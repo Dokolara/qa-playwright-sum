@@ -1,0 +1,10 @@
+{
+  "name": "qa-sum",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node scrape_sum.js"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}
