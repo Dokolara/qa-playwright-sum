@@ -35,4 +35,5 @@ async function getTableSum(url) {
   }
 
   console.log("🔢 Grand Total =", grandTotal);
+  console.log("SUM_TOTAL:", grandTotal);
 })();
